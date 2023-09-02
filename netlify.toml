@@ -1,4 +1,11 @@
 [[redirects]]
+    from = "/"
+    to = "https://asin.dev"
+    status = 302
+    force = true
+
+
+[[redirects]]
     from = "/minatIT"
     to = "https://forms.gle/Nvz5LjyVPHFHCRny7"
     status = 302
